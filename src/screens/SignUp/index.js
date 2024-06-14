@@ -19,7 +19,7 @@ export default function SignUpScreen() {
             }}>Sign Up</Text>
             <Text style={{
                 marginTop:200,
-                fontSize:28,
+                fontSize:27,
                 fontStyle:'bold',
                 color:'grey',
 
@@ -38,7 +38,8 @@ export default function SignUpScreen() {
                 <InputFieldComp 
                 placeholder={'Re-enter password'}
                 secureTextEntry={false}/>
-                <RoundButtonComp label={'SignUp'}/>
+                <RoundButtonComp 
+                label={'SignUp'} marginTop={30}/>
             </View>
         </View>
     )

@@ -38,9 +38,15 @@ export default function SignIn({navigation}) {
           
 
         }}>
-          <RoundButtonComp label={'Sign In'} width={130}/>
-          <RoundButtonComp label={'Sign Up'} width={130} 
-          border={true} onPress={
+          <RoundButtonComp 
+          label={'Sign In'} width={130
+
+          }/>
+          <RoundButtonComp 
+          label={'Sign Up'} 
+          width={130} 
+          border={true} 
+          onPress={
             ()=>navigation.navigate('SignUpScreen')
             }/>
         </View>

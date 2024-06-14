@@ -3,9 +3,14 @@ import React from 'react'
 
 export default function RoundButtonComp(
   {
-  label,border=false,onPress,width='100%'}) {
+  label,
+  border=false,
+  onPress,
+  width='100%',
+  marginTop=0,
+}) {
   return (
-    <TouchableOpacity onPress={()=>onPress()}>
+    <TouchableOpacity style={{marginTop:marginTop}}onPress={()=>onPress()}>
         <View style={{
         backgroundColor: border ? 'white' : '#c97c74',
         width:width,

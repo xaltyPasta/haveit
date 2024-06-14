@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498569715763",
+    "project_id": "havit-154fe",
+    "storage_bucket": "havit-154fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498569715763:android:0df319d1f910382ae20346",
+        "android_client_info": {
+          "package_name": "com.havit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeyrWI9QqczEFL8OiV8VGxjzf6mqjgLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
