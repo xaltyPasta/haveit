@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:498569715763:android:0df319d1f910382ae20346",
+        "mobilesdk_app_id": "#",
         "android_client_info": {
           "package_name": "com.havit"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCxeyrWI9QqczEFL8OiV8VGxjzf6mqjgLA"
+          "current_key": "#"
         }
       ],
       "services": {
